@@ -1,0 +1,6 @@
+logging:
+  config: classpath:logback-dev.xml
+spring:
+  mvc:
+    favicon:
+      enabled: false

@@ -1,0 +1,8 @@
+spring:
+  mvc:
+    favicon:
+      enabled: false
+foo: foo version 3
+myname: zwx
+democonfigclient:
+  message: hello spring io

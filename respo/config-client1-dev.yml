@@ -5,4 +5,4 @@ spring:
 foo: foo version 3
 myname: zwx
 democonfigclient:
-  message: hello spring io
+  message: hello spring io 2
